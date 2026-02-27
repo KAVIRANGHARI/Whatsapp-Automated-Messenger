@@ -14,7 +14,7 @@ Template Matching: The system takes a real-time screenshot of your display. It t
 
 Interaction: Using Python libraries, the script moves the hardware cursor to those coordinates and executes a click.
 
-Looping: These stages repeat based on the logic you define—allowing for complex, multi-step messaging and/or forwarding.
+Looping: These stages repeat based on the logic you define, allowing for complex, multi-step messaging and/or forwarding.
 
 Why Template Matching?
 Note: While modern automation often uses Chrome DevTools or APIs, I chose this "primal" method because it was the most accessible way for me to solve the problem at the time. It treats the screen as a canvas rather than a data structure.
